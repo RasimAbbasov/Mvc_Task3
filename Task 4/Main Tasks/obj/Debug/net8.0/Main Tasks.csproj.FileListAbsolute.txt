@@ -1,5 +1,0 @@
-C:\Users\Rasim\source\repos\Main Tasks\obj\Debug\net8.0\Main Tasks.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Rasim\source\repos\Main Tasks\obj\Debug\net8.0\Main Tasks.AssemblyInfoInputs.cache
-C:\Users\Rasim\source\repos\Main Tasks\obj\Debug\net8.0\Main Tasks.AssemblyInfo.cs
-C:\Users\Rasim\source\repos\Main Tasks\obj\Debug\net8.0\Main Tasks.csproj.CoreCompileInputs.cache
-C:\Users\Rasim\source\repos\Main Tasks\obj\Debug\net8.0\Main Tasks.sourcelink.json
